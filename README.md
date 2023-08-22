@@ -1,2 +1,2 @@
 # Facebook clone
-This is a restaurant management system
+This is a feceboook colne
